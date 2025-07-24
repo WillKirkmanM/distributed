@@ -15,7 +15,7 @@
 To get started with Distributed, you'll need to have Rust installed on your system. You can then clone the repository and build the project:
 
 ```bash
-git clone [https://github.com/WillKirkmanM/distributed](https://github.com/WillKirkmanM/distributed)
+git clone https://github.com/WillKirkmanM/distributed
 cd distributed
 cargo build --release
 ```
